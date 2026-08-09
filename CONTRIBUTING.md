@@ -6,7 +6,7 @@ Thank you for your interest in contributing to react-native-rs! This guide will 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Axnjr/react-native-rs
+   git clone https://github.com/govijr/react-native-rs
    cd react-native-rs
    ```
 
