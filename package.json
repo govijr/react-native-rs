@@ -27,15 +27,15 @@
     "bridge",
     "cross-platform"
   ],
-  "author": "Axnjr",
+  "author": "govijr",
   "license": "MIT",
-  "homepage": "https://github.com/Axnjr/react-native-rs",
+  "homepage": "https://github.com/govijr/react-native-rs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Axnjr/react-native-rs.git"
+    "url": "https://github.com/govijr/react-native-rs.git"
   },
   "bugs": {
-    "url": "https://github.com/Axnjr/react-native-rs/issues"
+    "url": "https://github.com/govijr/react-native-rs/issues"
   },
   "files": [
     "lib",
